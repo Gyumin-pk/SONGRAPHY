@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d829d62b65d9ab042e245d228fe10fbc",
+    "revision": "55c2abdac3004074009b7d23ecfc2d7d",
     "url": "/SONGRAPHY/index.html"
   },
   {
-    "revision": "d08b2cfffd0d0f81691e",
-    "url": "/SONGRAPHY/static/css/main.be7153dc.chunk.css"
+    "revision": "5394f691a011f6cf4325",
+    "url": "/SONGRAPHY/static/css/main.102dcd67.chunk.css"
   },
   {
     "revision": "380dfed9de04ff1c7eb7",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SONGRAPHY/static/js/2.8b798851.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d08b2cfffd0d0f81691e",
+    "revision": "5394f691a011f6cf4325",
     "url": "/SONGRAPHY/static/js/main.ff09a713.chunk.js"
   },
   {
