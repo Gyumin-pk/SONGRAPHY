@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SONGRAPHY/static/css/main.be7153dc.chunk.css",
+    "main.js": "/SONGRAPHY/static/js/main.ff09a713.chunk.js",
+    "main.js.map": "/SONGRAPHY/static/js/main.ff09a713.chunk.js.map",
+    "runtime-main.js": "/SONGRAPHY/static/js/runtime-main.0bc65184.js",
+    "runtime-main.js.map": "/SONGRAPHY/static/js/runtime-main.0bc65184.js.map",
+    "static/js/2.8b798851.chunk.js": "/SONGRAPHY/static/js/2.8b798851.chunk.js",
+    "static/js/2.8b798851.chunk.js.map": "/SONGRAPHY/static/js/2.8b798851.chunk.js.map",
+    "index.html": "/SONGRAPHY/index.html",
+    "precache-manifest.3c9fdc562eef32a109e396d43ec8951c.js": "/SONGRAPHY/precache-manifest.3c9fdc562eef32a109e396d43ec8951c.js",
+    "service-worker.js": "/SONGRAPHY/service-worker.js",
+    "static/css/main.be7153dc.chunk.css.map": "/SONGRAPHY/static/css/main.be7153dc.chunk.css.map",
+    "static/js/2.8b798851.chunk.js.LICENSE.txt": "/SONGRAPHY/static/js/2.8b798851.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bc65184.js",
+    "static/js/2.8b798851.chunk.js",
+    "static/css/main.be7153dc.chunk.css",
+    "static/js/main.ff09a713.chunk.js"
+  ]
+}
