@@ -11,8 +11,8 @@ class App extends Component {
       <div className="App">
 
         <header className="App-header">
-          <h1>SONGRAPHY</h1>
-          Find Music Relation
+          <h1>명곡 판독기</h1>
+          명곡이 아니라면 검색되지 않습니다
         </header>
 
         <nav className = "App-nav">
